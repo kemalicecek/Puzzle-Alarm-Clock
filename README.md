@@ -1,2 +1,3 @@
 # Puzzle-Alarm-Clock
 An Arduino Based Puzzle Alarm Clock
+In this project I used threads, I2C, rotary encoder (ec11), ds1302 Real-Time Clock and I2C LCD Module...
